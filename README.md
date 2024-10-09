@@ -1,5 +1,5 @@
 # WHATSAPP-DATABASE-DESIGN-
-![Application screenshot](./sc/pic.png)
+![Application screenshot](./pic.png)
 
 <br/>
 <br/>
